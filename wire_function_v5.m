@@ -1,5 +1,5 @@
 function [output, output1, output2] = wire_function_v4(starting_points, ranges, points_changing, s, varargin)
-
+%git test
 % Authors:
 % Fatima Ben Haj, Davis Senior High School
 % Felipe Godinez, PhD, University of California Davis
